@@ -28,8 +28,7 @@ The data is organized as follows
 | | UKN | Unknown - we have no idea | 
 | Policy URL | Link to the policy we found | | 
 
-		
-Policy URL 	Link to the policy we found 	
+
 
 ## Credits
 
