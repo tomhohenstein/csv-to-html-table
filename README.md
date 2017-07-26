@@ -18,12 +18,12 @@ The data is organized as follows
 
 |Column   | Value | Definition (if needed) |
 |---|---|---|
-|Verified| YYYYMMDD   | Date our findings were verified by someone at the institution.    |
+|Verified| YYYYMMDD   | Date our findings were verified by someone at the institution    |
 |   | N  | Findings have not been verified by someone at the institution    |
 | Institution  | Name of the institution   |   |
 |Policy | NONE| No policy found | 
 | | IP | Intellectual Property policy specific covers research data | 
-| | SP | Stand-along or independent policy for research data | 
+| | SP | Stand-alone or independent policy for research data | 
 | | UD | Policy is currently under development, review, bring drafted, or in an interim status |
 | | UKN | Unknown - we have no idea | 
 | Policy URL | Link to the policy we found | | 
